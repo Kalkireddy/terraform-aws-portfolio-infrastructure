@@ -179,9 +179,31 @@ It reflects real-world client work, including modular IaC, scalability, security
 The infrastructure is fully reproducible, cost‑optimized, and designed for high availability — exactly what modern businesses expect.
 
 
-## 💼 About Me
+## �‍💼 About the Author
 
-I'm a Cloud & DevOps Architect specializing in multi-cloud infrastructure, automation, and client-ready solutions. This repo is part of my freelance portfolio to showcase real-world deployments and reproducible infrastructure.
+**Shiv — Cloud & DevOps Architect**
+
+**Expertise & Focus Areas:**
+- ☸️ Kubernetes Expert (EKS, multi-cluster deployments, Helm)
+- 🚀 Infrastructure as Code specialist (Terraform, CloudFormation)
+- 🏗️ AWS Cloud Architecture & Design
+- 💰 Cost Optimization & Performance Tuning
+- 💼 Available for Upwork, contract work, and consulting
+
+**Currently Pursuing:**
+- 🎯 AWS Certified Solutions Architect (Professional) — In preparation
+
+**Specializations:**
+- AWS Infrastructure (EC2, VPC, ALB, ASG, RDS, S3, IAM)
+- Multi-cloud Infrastructure (AWS, Azure basics)
+- Infrastructure as Code (Terraform, modular design)
+- CI/CD Pipeline Architecture
+- Security hardening & compliance
+
+**Open Source Contributions:**
+- Maintain public DevOps portfolios & reusable templates
+- MIT Licensed infrastructure projects
+- Available for technical mentoring and consulting
 
 ---
 
@@ -205,22 +227,52 @@ Cloudflare caching reduces ALB traffic
 
 ---
 
+## 📖 Learning Resources
+
+- [Terraform Official Docs](https://www.terraform.io/docs)
+- [AWS Provider Documentation](https://registry.terraform.io/providers/hashicorp/aws)
+- [AWS Architecture Best Practices](https://docs.aws.amazon.com/architecture/)
+- [Cloudflare DNS Guide](https://developers.cloudflare.com/dns/)
+- [AWS Security Best Practices](https://aws.amazon.com/architecture/security-identity-compliance/)
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** — see [LICENSE](LICENSE) file for complete details.
+
+**License Summary:**
+- ✅ **Free to use, modify, and distribute**
+- ✅ **Commercial use allowed**
+- ✅ Attribution appreciated but not required
+- ✅ Use as reference or fork for your own projects
+
+---
+
+## 🌐 My DevOps Portfolio
+
+Explore more projects showcasing DevOps expertise:
+
+**→ [shivdevops.cloud](https://shivdevops.cloud)**
+
+**Other Projects:**
+- [Kubernetes EKS Portfolio](https://github.com/Kalkireddy/kubernetes-eks-portfolio) — Production Kubernetes on AWS
+- [Flask CI/CD Pipeline](https://github.com/Kalkireddy/flask-cicd-app) — Automated deployment pipeline
+- [Portfolio Website](https://shivdevops.cloud) — Live professional portfolio
+
+---
+
 ## 🤝 Contributing
+
 Contributions, improvements, and suggestions are welcome.
 Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
+## 📬 Let's Connect
 
----
+Looking to build scalable, secure cloud infrastructure? Let's talk.
 
-## 📬 Contact
-If you'd like help building similar infrastructure or want to collaborate, feel free to reach out.
-
-## 🌐 Portfolio
-
-**Visit my portfolio:** [shivdevops.cloud](https://shivdevops.cloud)
-
-Explore more projects and infrastructure solutions that demonstrate my expertise in DevOps, Cloud Architecture, and Infrastructure as Code.
+- 💼 **Upwork:** Available for consulting & contract work
+- 📧 **Portfolio:** [shivdevops.cloud](https://shivdevops.cloud)
+- 🐙 **GitHub:** [Kalkireddy](https://github.com/Kalkireddy)
