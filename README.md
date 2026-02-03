@@ -14,7 +14,7 @@ This project showcases a production-grade AWS infrastructure built entirely with
 
 ## 📐 Architecture Overview
 
-![Architecture Diagram](docs/Architecture_diagram.png)
+![Architecture Diagram](docs/architecture-diagram.png)
 
 The infrastructure includes:
 
